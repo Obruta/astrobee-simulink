@@ -1,0 +1,29 @@
+
+*.asv
+Astrobee_G&C/Astrobee_Simulink.slxc
+Astrobee_G&C/slprj/_sfprj/Astrobee_Simulink/amsi_serial.mat
+Astrobee_G&C/slprj/sim/varcache/Astrobee_Simulink/checksumOfCache.mat
+Astrobee_G&C/slprj/sim/varcache/Astrobee_Simulink/tmwinternal/simulink_cache.xml
+Astrobee_G&C/slprj/sim/varcache/Astrobee_Simulink/varInfo.mat
+Astrobee_G&C/Astrobee_Simulink.slxc
+Astrobee_G&C/slprj/_sfprj/Astrobee_Simulink/amsi_serial.mat
+Astrobee_G&C/slprj/sim/varcache/Astrobee_Simulink/checksumOfCache.mat
+Astrobee_G&C/slprj/sim/varcache/Astrobee_Simulink/tmwinternal/simulink_cache.xml
+Astrobee_G&C/slprj/sim/varcache/Astrobee_Simulink/varInfo.mat
+*matlab_msg_gen_ros1*
+*slprj*
+Astrobee_G&C/Astrobee_Simulink.slxc
+Astrobee_G&C/Astrobee_Simulink_sfun.mexw64
+Astrobee_G&C/Results/29-Oct-2023 12_21_55/data.mat
+Astrobee_G&C/Results/Old Astrobee Data Sets/29-Oct-2023 12_21_55/data.mat
+*.slxc
+*.mexw64
+*.mexw64
+*.mexw64
+*.autosave
+*.mexw64
+*dockCamImages*
+*.mexw64
+*RosBags*
+*virtual_environment*
+*.zip
